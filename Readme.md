@@ -2,7 +2,7 @@
 
 
 *** What is it? ***  
-    This is a simple password manager that allows you to store your passwords in a secure way.  
+    This is a simple password manager that allows you to store your passwords in a secure way  
   
 *** Why is it useful? ***  
     It is useful because it allows you to store your passwords in a secure way.  
